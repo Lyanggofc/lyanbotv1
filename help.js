@@ -155,7 +155,7 @@ const help = (prefix) => {
 
 
 
-Criador: BRUXINHO MODS 
+Criador: Lyan/Hendricky
 
 ×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=              
 
